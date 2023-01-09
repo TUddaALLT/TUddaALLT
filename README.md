@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tuddahe161500@fpt.edu.vn
+- 📫 How to reach me tuddaallt@gmail.com
 
 <!---
 TUddaALLT/TUddaALLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
