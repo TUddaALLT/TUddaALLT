@@ -18,10 +18,10 @@
   <a href="linkedin.com/in/tú-dương-013545240" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="[https://www.facebook.com/01.tien](https://www.facebook.com/tudda.allt)" alt="Facebook">
+  <a href="https://www.facebook.com/tudda.allt" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="[https://github.com/TienNHM](https://github.com/TUddaALLT)" alt="Github">
+  <a href="https://github.com/TUddaALLT" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>  
   <a href="tuddaallt@gmail.com" alt="Email">
