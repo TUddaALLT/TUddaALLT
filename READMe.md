@@ -5,10 +5,6 @@
 </p>
 
 
-- ✍ I'm a student of: (https://hanoi.fpt.edu.vn/) (FPTU - Ha Noi).
-
-- 🌱 I’m currently learning JAVA
-
 <br />
 
 ## 📫 How to reach me:
@@ -41,9 +37,12 @@
   <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
 </p>
 
-- ✍ Rest API(Springboot vs reactjs)
 
-- ✍ Java, C#, jsp/servlet, SpringBoot, Spring Security, Lombok, JWT
+- ✍ Java jsp/servlet, SpringBoot, Spring Security, Lombok, JWT, Junit test, 
+
+- ✍ ElasticSearch, Kafka
+
+- ✍ C#, Entity Framework, WinForm
 
 - ✍ Reactjs, MUI, Mantine, Antd
 
