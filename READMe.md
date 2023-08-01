@@ -38,7 +38,7 @@
 </p>
 
 
-- ✍ Java jsp/servlet, SpringBoot, Spring Security, Lombok, JWT, Junit test, 
+- ✍ Java jsp/servlet, SpringBoot, Spring Security, JWT, Junit test, 
 
 - ✍ ElasticSearch, Kafka
 
@@ -46,7 +46,7 @@
 
 - ✍ Reactjs, MUI, Mantine, Antd
 
-- ✍ Others: Postman, Sql, Git,  
+- ✍ Others: Postman, Sql, Git, Jira 
 
 ## Activities:
 
