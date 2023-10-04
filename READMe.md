@@ -32,13 +32,18 @@
    <img src="https://img.icons8.com/color/48/react-native.png"/>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/48/postman_macos_bigsur_icon_189815.png"/>
   <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
+  <img src="https://icons8.com/icon/33039/amazon-web-services"/>
+  <img src="https://icons8.com/icon/22813/docker"/>
+  <img src="https://icons8.com/icon/DHbACKviPosX/microservice"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/> 
   <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
 </p>
 
 
-- ✍ Java jsp/servlet, SpringBoot, Spring Security, JWT, Junit test, 
+- ✍ Java jsp/servlet, SpringBoot, Spring Security, JWT, Junit test,
+
+- ✍ Docker, EC2 AWS, microservices 
 
 - ✍ ElasticSearch, Kafka
 
