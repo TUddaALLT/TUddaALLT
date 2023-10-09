@@ -38,11 +38,11 @@
 </p>
 
 
-- ✍ Java jsp/servlet, SpringBoot, Spring Security, JWT, Junit test,
+- ✍ Java, SpringBoot, Spring Security, JWT, Junit test,
 
 - ✍ Docker, EC2 AWS, microservices 
 
-- ✍ ElasticSearch, Kafka
+- ✍ ElasticSearch, Kafka, MinIo
 
 - ✍ C#, Entity Framework, WinForm
 
